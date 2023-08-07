@@ -1,0 +1,3 @@
+const meow = () => {};
+
+export { meow };
